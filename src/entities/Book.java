@@ -10,10 +10,10 @@ package entities;
  * @author Student
  */
 public class Book {
-   private String Author;
-   private int ISBN;
-   private String title;
-   private int total_no_of_books;
-   private int total_no_of_books_present;
+   public String Author;
+   public String ISBN;
+   public String title;
+   public int total_no_of_books;
+   public int total_no_of_books_present;
    
 }
